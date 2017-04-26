@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Build it Bigger</string>
+    <string name="instructions">Press the button for a delicious joke!</string>
+    <string name="button_text">Tell Joke</string>
+    <string name="action_settings">Settings</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="joke_msg">I was cuddling with my girlfriend, and she said, “I love lying here with you.”
+
+“I once caught a fish, and it was five feet long and spoke Hebrew,” I replied. She stared at me, confused. “That was my lie,” I said.
+
+“Oh, right. I see. Very funny,” she said. She paused a moment before rolling over. “That was my lie.”</string>
+</resources>
